@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+  </head>
+  <body>
+
+    <div class="wrapper">
+
+      
+      <div class="topnav">
+        <a class="active" href="./index.html">Dr. Werner Krause</a>
+        <div class="topnav-right">
+        <a href="./publs.html">Publications</a>
+        <a href="./data.html">Data</a>
+        <a href="./outreach.html">Outreach</a>
+        <a href="./tchng.html">Teaching</a>
+        <a href="./cv.html">CV</a>
+      </div>
+      </div> 
+      <br>
+      <hr color="red" size="10">
+
+      <hr width="70%" >
+
+      <br>
+
+      <header>
+        
+          {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+        
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <i class="fa fa-envelope" style="font-size:12px;color:rgb(86, 96, 128)"></i> 
+        <a href= "mailto:werner.krause@univie.ac.at">werner.krause@univie.ac.at</a> 
+        <br>
+        <br>
+        <i class="fa fa-twitter" style="font-size:12px;color:rgb(86, 96, 128)"></i> <a href= "https://twitter.com/krause_we">Twitter</a>
+        <br>
+        <i class="ai ai-google-scholar ai-3x" style="font-size:12px;color:rgb(86, 96, 128)"></i> 
+        <a href= "https://scholar.google.de/citations?user=K4Kvs-4AAAAJ&hl=en">Google Scholar</a>
+        <br>
+        <i class="ai ai-publons ai-3x" style="font-size:12px;color:rgb(86, 96, 128)"></i> 
+        <a href= "https://publons.com/researcher/1597903/werner-krause/">Publons</a>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
