@@ -8,6 +8,8 @@ layout: default
 
 
 <ul>
+<li><a href= "https://verfassungsblog.de/rechts-nur-noch-die-wand/">Rechts nur noch die Wand?</a> <it>Verfassungsblog</it>, Feb 7 2023. (with Tarik Abou-Chadi and Denis Cohen)</li>
+
 <li><a href= "https://www.theguardian.com/world/commentisfree/2022/apr/13/copying-far-right-doesnt-help-mainstream-parties">Copying the far right doesn't help mainstream parties. But it can boost the far right.</a> <it>The Guardian</it>, Apr 13 2022. (with Tarik Abou-Chadi and Denis Cohen)</li>
 
 <li><a href= "https://agendapublica.elpais.com/noticia/13514/izquierda-radical-sus-altibajos-cuando-triunfa">La Izquierda Radical, Sus Altibajos Y Cuándo Triunfa/The Ups and Downs of the Far Left, When do Radical Left Parties Succeed?</a> <it>Agenda Pública - Analistas de Actualidad</it>, Nov 04 2021.</li>
@@ -25,7 +27,20 @@ layout: default
 <h3>Media Mentions (Selection)</h3>
         
 <ul>
-<li>CNN (<a href= "https://edition.cnn.com/2019/10/22/opinions/marie-yovanovitch-launches-insurrection-hunt/index.html">1</a>), Washington Post (<a href= "https://www.washingtonpost.com/opinions/2019/09/04/why-germany-europe-cant-afford-accommodate-radical-right/">1</a>, <a href= "https://www.washingtonpost.com/politics/2021/07/15/countries-different-colombia-lebanon-lgbtq-advocates-are-helping-lead-protests-build-peace/">2</a>), The Guardian (<a href= "https://www.theguardian.com/news/2019/may/14/why-copying-the-populist-right-isnt-going-to-save-the-left">1</a>), The New York Times (<a href= "https://www.nytimes.com/interactive/2019/06/26/opinion/sunday/republican-platform-far-right.html">1</a>), LSE EUROPP Blog (<a href= "https://blogs.lse.ac.uk/europpblog/2021/07/08/there-is-little-evidence-european-integration-has-created-a-representation-gap-between-politicians-and-voters/">1</a>), The Conversation (<a href= "https://theconversation.com/the-exclusion-of-women-in-myanmar-politics-helped-fuel-the-military-coup-154701">1</a>), Jacobin Magazine (<a href= "https://jacobin.com/2022/05/denmark-far-right-vandalism-left-wing-artworks-situationists-jorn-asger-hard-line/">1</a>), Katapult Magazin (<a href= "https://www.katapult-shop.de/magazine/knicker/82/katapult-ausgabe-16/2020?c=21">1</a>), Zeit Online Magazin (<a href= "https://www.zeit.de/news/2022-04/21/studie-uebernahme-rechter-themen-staerkt-radikale-parteien">1</a>), Deutschlandfunk Nova (<a href= "https://ondemand-mp3.dradio.de/file/dradio/2022/04/21/deutschlandfunknova_mariupol_20220421_6d0efc11.mp3">1</a>), Deutschlandfunk Kultur (<a href= "https://www.deutschlandfunkkultur.de/stimmenfang-am-rechten-rand-lohnt-sich-nicht-dlf-kultur-b8cde89c-100.html">1</a>), SWR (<a href= "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheimer-studie-uebernahme-rechter-themen-staerkt-radikale-parteien-100.html">1</a>), TAZ - Die Tageszeitung (<a href= "https://taz.de/Studie-zu-Wahlerfolgen-rechter-Parteien/!5849870/">1</a>).</li>
+<li>CNN (<a href= "https://edition.cnn.com/2019/10/22/opinions/marie-yovanovitch-launches-insurrection-hunt/index.html">1</a>), 
+Washington Post (<a href= "https://www.washingtonpost.com/opinions/2019/09/04/why-germany-europe-cant-afford-accommodate-radical-right/">1</a>, <a href= "https://www.washingtonpost.com/politics/2021/07/15/countries-different-colombia-lebanon-lgbtq-advocates-are-helping-lead-protests-build-peace/">2</a>), 
+The Guardian (<a href= "https://www.theguardian.com/news/2019/may/14/why-copying-the-populist-right-isnt-going-to-save-the-left">1</a>,
+<a href= "https://www.theguardian.com/commentisfree/2022/jul/03/as-macron-does-quiet-deals-with-le-pen-the-far-right-has-france-in-its-grip">2</a>), 
+The New York Times (<a href= "https://www.nytimes.com/interactive/2019/06/26/opinion/sunday/republican-platform-far-right.html">1</a>,
+<a href= "https://www.nytimes.com/2023/02/08/opinion/germany-far-right-afd.html">2</a>)
+LSE EUROPP Blog (<a href= "https://blogs.lse.ac.uk/europpblog/2021/07/08/there-is-little-evidence-european-integration-has-created-a-representation-gap-between-politicians-and-voters/">1</a>), 
+The Conversation (<a href= "https://theconversation.com/the-exclusion-of-women-in-myanmar-politics-helped-fuel-the-military-coup-154701">1</a>), 
+Jacobin Magazine (<a href= "https://jacobin.com/2022/05/denmark-far-right-vandalism-left-wing-artworks-situationists-jorn-asger-hard-line/">1</a>), 
+Katapult Magazin (<a href= "https://www.katapult-shop.de/magazine/knicker/82/katapult-ausgabe-16/2020?c=21">1</a>), 
+Zeit Online Magazin (<a href= "https://www.zeit.de/news/2022-04/21/studie-uebernahme-rechter-themen-staerkt-radikale-parteien">1</a>), 
+Deutschlandfunk Nova (<a href= "https://ondemand-mp3.dradio.de/file/dradio/2022/04/21/deutschlandfunknova_mariupol_20220421_6d0efc11.mp3">1</a>), Deutschlandfunk Kultur (<a href= "https://www.deutschlandfunkkultur.de/stimmenfang-am-rechten-rand-lohnt-sich-nicht-dlf-kultur-b8cde89c-100.html">1</a>), 
+SWR (<a href= "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheimer-studie-uebernahme-rechter-themen-staerkt-radikale-parteien-100.html">1</a>), 
+TAZ - Die Tageszeitung (<a href= "https://taz.de/Studie-zu-Wahlerfolgen-rechter-Parteien/!5849870/">1</a>).</li>
 </ul>
         
 <h3>Invited Talks</h3>

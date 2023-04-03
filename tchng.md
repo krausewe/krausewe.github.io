@@ -5,10 +5,16 @@ layout: default
 <h2 id="publs">Teaching</h2>
 I teach courses on comparative politics and (advanced) quantitative research methods at the undergraduate and the graduate level.<br>
 
-
-<h4>Winter 2022/23 (scheduled)</h4>
+<h4>Summer 2023</h4>
 <ul>
-<li>Research Methods for Political Science, University of Vienna (in-person), Undergraduate</li>
+<li>Political Violence in Representative Democracies – Causes and Consequences, University of Potsdam (in-person), Graduate</li>
+<li>Political Parties and Elections in Comparative Perspective, University of Potsdam (in-person), Undergraduate</li>
+</ul>
+
+
+<h4>Winter 2022/23</h4>
+<ul>
+<li>Quantitative Methods of Empirical Social Research, University of Vienna (in-person), Undergraduate</li>
 <li>Political Parties and Elections, University of Vienna (in-person), Undergraduate</li>
 </ul>
 
