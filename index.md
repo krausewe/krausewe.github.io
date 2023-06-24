@@ -20,7 +20,7 @@ layout: default
 
   <tr>
     <td class="test">June 2023</td>
-    <td> <i>New publication</i> in <a href="https://doi.org/10.1177/00104140231169021" target="_blank" rel="noopener noreferrer">Comparative Political Studies</a>. Together with Miku Matsunaga (Univeristy of Tokyo), I investigate how radical right party support develops after right-wing violent attacks. In particular, we focus on Germany between 2013 and 2019. Drawing on time-series data and a quasi-experiment, our analyses reveal a noteworthy finding: far-right support not only failed to diminish despite rising levels of right-wing violence but rather displayed a modest increase.</td>
+    <td> <i>New publication</i> in <a href="https://doi.org/10.1177/00104140231169021" target="_blank" rel="noopener noreferrer">Comparative Political Studies</a>. Together with Miku Matsunaga (University of Tokyo), I investigate how far right party support has developed after right-wing violent attacks in Germany between 2013 and 2019.</td>
   </tr>
 
   <tr>
@@ -38,7 +38,7 @@ layout: default
 
   <tr>
     <td class="test">November 2022</td>
-    <td> <i>Presentation</i> at the <a href="https://www.oegpw.at/fileadmin/user_upload/Political_Science_Day_2022_Programm.pdf" target="_blank" rel="noopener noreferrer">Political Science Day 2022</a> of the Asutrian Political Science Association (AuPSA) at the University of Graz. I presented results of a survey experiment conducted with Christina Gahn. In our research, we ask whether and how public opinion polls can be best communicated to voters and how different graphical displays of polls affects citizens' vote decisions.</td>
+    <td> <i>Presentation</i> at the <a href="https://www.oegpw.at/fileadmin/user_upload/Political_Science_Day_2022_Programm.pdf" target="_blank" rel="noopener noreferrer">Political Science Day 2022</a> of the Austrian Political Science Association (AuPSA) at the University of Graz. I presented results of a survey experiment conducted with Christina Gahn. In our research, we ask whether and how public opinion polls can be best communicated to voters and how different graphical displays of polls affects citizens' vote decisions.</td>
   </tr>
   
   <tr>
