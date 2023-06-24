@@ -6,17 +6,22 @@ layout: default
 
   I am a political scientist at the Chair of Comparative Politics of the University of Potsdam, where I teach classes on comparative politics, political behavior, and research methods. Previously, I worked as a research fellow at the University of Vienna, the Humboldt University of Berlin and the WZB Berlin Social Science Center. I was also a visiting scholar at the University of Essex.<br>
   
-  My research areas include political representation, party competition, political radicalism/extremism, and quantitative methods with a focus on causal inference. In my current research projects, I study political phenomena such as democratic responsiveness, political violence, and citizens' voting behavior. My work has been published in different academic journals, like the <i>British Journal of Political Science</i>, <i>Political Science Research and Methods</i>, <i>West European Politics</i>, or <i>Party Politics</i>. I contributed chapters to books published by <i>Cambridge University Press</i> and <i>Springer VS</i>. <br>  
+  My research areas include political representation, party competition, political radicalism/extremism, and quantitative methods with a focus on causal inference. In my current research projects, I study political phenomena such as democratic responsiveness, political violence, and citizens' voting behavior. My work has been published in different academic journals, like <i>Comparative Political Studies</i>, the <i>British Journal of Political Science</i>, <i>Political Science Research and Methods</i>, <i>West European Politics</i>, or <i>Party Politics</i>. I contributed chapters to books published by <i>Cambridge University Press</i> and <i>Springer VS</i>. <br>  
         
   My work and the projects I contributed to have been covered in various national and international media outlets, such as The Guardian, the New York Times, and The Washington Post. Click <a href="./outreach.html">here</a> for a comprehensive list of my media appearances.
  <br>
 
-  Currently, I am a lead investigator in the data project <i>Political Parties, Presidents, Elections, and Governments</i> (<a href="https://ppeg.wzb.eu" target="_blank" rel="noopener noreferrer">PPEG</a>). In the past, I was part of the project <i>Manifesto Research on Political Representation</i> (<a href="https://manifesto-project.wzb.eu/" target="_blank" rel="noopener noreferrer">MARPOR</a>) and contributed to the <i>Issue Competition Comparative Project</i> (<a href="https://cise.luiss.it/iccp/" target="_blank" rel="noopener noreferrer">ICCP</a>). <br>
+  Currently, I am a principal investigator in the DFG funded project <i>Powerful Polls? The Influence of Public Opinion Polls on Elections in Representative Democracies</i> and the data project <i>Political Parties, Presidents, Elections, and Governments</i> (<a href="https://ppeg.wzb.eu" target="_blank" rel="noopener noreferrer">PPEG</a>). In the past, I was part of the project <i>Manifesto Research on Political Representation</i> (<a href="https://manifesto-project.wzb.eu/" target="_blank" rel="noopener noreferrer">MARPOR</a>) and contributed to the <i>Issue Competition Comparative Project</i> (<a href="https://cise.luiss.it/iccp/" target="_blank" rel="noopener noreferrer">ICCP</a>). <br>
   <br>
 
   <h3>News</h3>
 
 <table>
+
+  <tr>
+    <td class="test">June 2023</td>
+    <td> <i>New publication</i> in <a href="https://doi.org/10.1177/00104140231169021" target="_blank" rel="noopener noreferrer">Comparative Political Studies</a>. Together with Miku Matsunaga (Univeristy of Tokyo), I investigate how radical right party support develops after right-wing violent attacks. In particular, we focus on Germany between 2013 and 2019. Drawing on time-series data and a quasi-experiment, our analyses reveal a noteworthy finding: far-right support not only failed to diminish despite rising levels of right-wing violence but rather displayed a modest increase.</td>
+  </tr>
 
   <tr>
     <td class="test">April 2023</td>
@@ -64,4 +69,4 @@ layout: default
 </table>
 
 <br>
-<p><small>Last Update: 2023-04-03. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+<p><small>Last Update: 2023-06-24. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>

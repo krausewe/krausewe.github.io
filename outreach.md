@@ -4,7 +4,7 @@ layout: default
 <h2>Outreach</h2>
 
 
-<h3>Media Appearances</h3>
+<h3>Media Appearances (Selection)</h3>
 
 
 <ul>
@@ -35,7 +35,8 @@ The New York Times (<a href= "https://www.nytimes.com/interactive/2019/06/26/opi
 <a href= "https://www.nytimes.com/2023/02/08/opinion/germany-far-right-afd.html">2</a>)
 LSE EUROPP Blog (<a href= "https://blogs.lse.ac.uk/europpblog/2021/07/08/there-is-little-evidence-european-integration-has-created-a-representation-gap-between-politicians-and-voters/">1</a>), 
 The Conversation (<a href= "https://theconversation.com/the-exclusion-of-women-in-myanmar-politics-helped-fuel-the-military-coup-154701">1</a>), 
-Jacobin Magazine (<a href= "https://jacobin.com/2022/05/denmark-far-right-vandalism-left-wing-artworks-situationists-jorn-asger-hard-line/">1</a>), 
+Spiegel Online (<a href="https://www.spiegel.de/wissenschaft/mensch/alternative-fuer-deutschland-politikstil-please-staerke-die-afd-a-a6a6b50c-2944-4674-acdc-446eff3f93d1">1</a>),
+Jacobin Magazine (<a href= "https://jacobin.com/2022/05/denmark-far-right-vandalism-left-wing-artworks-situationists-jorn-asger-hard-line/">1</a>, <a href="https://jacobin.de/artikel/wo-liegt-das-potenzial-einer-wagenknecht-partei-gruendung-linke-konservative-carsten-braband/">2</a>), 
 Katapult Magazin (<a href= "https://www.katapult-shop.de/magazine/knicker/82/katapult-ausgabe-16/2020?c=21">1</a>), 
 Zeit Online Magazin (<a href= "https://www.zeit.de/news/2022-04/21/studie-uebernahme-rechter-themen-staerkt-radikale-parteien">1</a>), 
 Deutschlandfunk Nova (<a href= "https://ondemand-mp3.dradio.de/file/dradio/2022/04/21/deutschlandfunknova_mariupol_20220421_6d0efc11.mp3">1</a>), Deutschlandfunk Kultur (<a href= "https://www.deutschlandfunkkultur.de/stimmenfang-am-rechten-rand-lohnt-sich-nicht-dlf-kultur-b8cde89c-100.html">1</a>), 

@@ -6,6 +6,8 @@ layout: default
 
 <h3 id="publs">Articles (peer-reviewed)</h3>
 <ul>
+    <li> Does Right-Wing Violence Affect Public Support for Radical Right Parties? Evidence from Germany (with Miku Matsunaga). 2023. <i>Comparative Political Studies</i>. Online First, 1-37. <a href="https://doi.org/10.1177/00104140231169021" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V2WGQV" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
+    <br>    
     <li> Does Accommodation Work? Mainstream Party Strategies and the Success of Radical Right Parties (with Denis Cohen and Tarik Abou-Chadi). 2023. <i>Political Science Research and Methods</i>. 11 (1), 172-179. <a href="https://doi.org/10.1017/psrm.2022.8" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBWB8I" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
     <br>    
     <li>Voter Turnout Decline and Party Responsiveness (with Lawrence Ezrow). 2023. <i>British Journal of Political Science</i>. 53 (1), 85-103. <a href="https://doi.org/10.1017/S0007123421000673" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://doi.org/10.7910/DVN/PQ63DN" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li><br>

@@ -2,8 +2,13 @@
 layout: default
 ---
 
-<h2 id="publs">Data</h2>
-I lead and collaborate on different data projects. I have collected and analyzed observational data, nationally representative surveys, and survey experiments. I also analyze geospatial and digital behavior data in my current research projects. Below is a list of larger projects I have been involved in.<br>
+<h2 id="publs">Projects</h2>
+I lead and collaborate on different projects. I have collected and analyzed observational data, nationally representative surveys, and survey experiments. In my current research projects, I also analyze geospatial and digital behavior data.Below, you find a list of larger projects where I serve as the principal investigator or actively contribute.<br>
+<hr>
+<h3>Powerful Polls? The Influence of Public Opinion Polls on Elections in Representative Democracies</h3>
+<p style="margin-bottom:.5cm;">This project investigates the role of public opinions polls in democracies. The guiding research questions are whether and how polls affect citizens' vote decisions and, eventually, election outcomes. These questions will be answered through an innovative research design that merges comparative data from 20 OECD countries with evidence derived from a series of survey experiments.</p> 
+<p style="margin-bottom:.5cm;">Funding: German Research Foundation/Deutsche Forschungsgemeinschaft (DFG). Funding volume: € 358.160. Before, the project was financially supported by the Berlin University Alliance (Career Development Award, € 44.000) and got funding approval by the Daimler and Benz Foundation (Postdoctoral scholarship program, € 40.000)</p>
+Role: Project Lead (2023-2026)  
 <hr>
 <h3>PPEG Database</h3><a href="https://ppeg.wzb.eu" target="_blank" rel="noopener noreferrer">[https://ppeg.wzb.eu]</a>
 <p style="margin-bottom:.5cm;">The PPEG database provides information on political parties, presidents, elections, and governments around the world. The current version of the database covers information from 72 countries in Africa, the Americas, Asia, Australia, and Europe between 1945 and 2021 including data on 3030 political parties, 1011 parliamentary elections, 338 presidential elections, and 1881 cabinets. </p>
