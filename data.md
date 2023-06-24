@@ -3,13 +3,14 @@ layout: default
 ---
 
 <h2 id="publs">Projects</h2>
-I lead and collaborate on different projects. I have collected and analyzed observational data, nationally representative surveys, and survey experiments. In my current research projects, I also analyze geospatial and digital behavior data.Below, you find a list of larger projects where I serve as the principal investigator or actively contribute.<br>
+I lead and collaborate on different projects. I have collected and analyzed observational data, nationally representative surveys, and survey experiments. In my current research projects, I also analyze geospatial and digital behavior data. Below, you find a list of larger projects where I serve as the principal investigator or actively contribute.<br>
 
 <hr>
 <h3>Powerful Polls?</h3>
 <p style="margin-bottom:.5cm;">This project investigates the role of public opinions polls in democracies. The guiding research questions are whether and how polls affect citizens' vote decisions and, eventually, election outcomes. These questions will be answered through an innovative research design that merges comparative data from 20 OECD countries with evidence derived from a series of survey experiments.</p> 
-<p style="margin-bottom:.5cm;">Funding: German Research Foundation/Deutsche Forschungsgemeinschaft (DFG). Funding volume: € 358.160. </p> 
-<p style="margin-bottom:.5cm;"> Before, the project was financially supported by the Berlin University Alliance (Career Development Award, € 44.000) and got funding approval by the Daimler and Benz Foundation (Postdoctoral scholarship program, € 40.000)</p>
+<p>Funding: German Research Foundation/Deutsche Forschungsgemeinschaft (DFG). 
+<p style="margin-bottom:.5cm;"> Funding volume: 358,160€. </p> 
+<p style="margin-bottom:.5cm;"> Before, the project was financially supported by the Berlin University Alliance (Career Development Award,  44,000€) and got funding approval by the Daimler and Benz Foundation (40,000€)</p>
 Role: Principal Investigator (2023-2026)  
 <hr>
 <h3>PPEG Database</h3><a href="https://ppeg.wzb.eu" target="_blank" rel="noopener noreferrer">[https://ppeg.wzb.eu]</a>
