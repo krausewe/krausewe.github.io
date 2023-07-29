@@ -6,6 +6,8 @@ layout: default
 
 <h3 id="publs">Articles (peer-reviewed)</h3>
 <ul>
+    <li> Comparative Vote Switching. A New Framework for Studying Dynamic Multi-Party Competition (with Denis Cohen and Tarik Abou-Chadi). 2023. <i>Journal of Politics</i>. Forthcoming, 1-26. <a href="https://denis-cohen.github.io/vote-switching/cohen_krause_abou-chadi_comparative_vote_switching-jop.pdf" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://doi.org/10.7910/DVN/46UDEI" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
+    <br>  
     <li> Does Right-Wing Violence Affect Public Support for Radical Right Parties? Evidence from Germany (with Miku Matsunaga). 2023. <i>Comparative Political Studies</i>. Online First, 1-37. <a href="https://doi.org/10.1177/00104140231169021" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V2WGQV" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
     <br>    
     <li> Does Accommodation Work? Mainstream Party Strategies and the Success of Radical Right Parties (with Denis Cohen and Tarik Abou-Chadi). 2023. <i>Political Science Research and Methods</i>. 11 (1), 172-179. <a href="https://doi.org/10.1017/psrm.2022.8" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBWB8I" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>

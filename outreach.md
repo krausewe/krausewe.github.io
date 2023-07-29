@@ -8,6 +8,8 @@ layout: default
 
 
 <ul>
+<li><a href= "https://www.dw.com/en/why-copying-the-far-right-doesnt-work-for-mainstream-parties/a-66311564">The 'firewall' to Germany's far right is crumbling.  </a> <it>Deutsche Welle</it>, Jul 23 2023.</li>
+
 <li><a href= "https://verfassungsblog.de/rechts-nur-noch-die-wand/">Rechts nur noch die Wand?</a> <it>Verfassungsblog</it>, Feb 7 2023. (with Tarik Abou-Chadi and Denis Cohen)</li>
 
 <li><a href= "https://www.theguardian.com/world/commentisfree/2022/apr/13/copying-far-right-doesnt-help-mainstream-parties">Copying the far right doesn't help mainstream parties. But it can boost the far right.</a> <it>The Guardian</it>, Apr 13 2022. (with Tarik Abou-Chadi and Denis Cohen)</li>
@@ -28,11 +30,13 @@ layout: default
         
 <ul>
 <li>CNN (<a href= "https://edition.cnn.com/2019/10/22/opinions/marie-yovanovitch-launches-insurrection-hunt/index.html">1</a>), 
-Washington Post (<a href= "https://www.washingtonpost.com/opinions/2019/09/04/why-germany-europe-cant-afford-accommodate-radical-right/">1</a>, <a href= "https://www.washingtonpost.com/politics/2021/07/15/countries-different-colombia-lebanon-lgbtq-advocates-are-helping-lead-protests-build-peace/">2</a>), 
+The Washington Post (<a href= "https://www.washingtonpost.com/opinions/2019/09/04/why-germany-europe-cant-afford-accommodate-radical-right/">1</a>, <a href= "https://www.washingtonpost.com/politics/2021/07/15/countries-different-colombia-lebanon-lgbtq-advocates-are-helping-lead-protests-build-peace/">2</a>), 
 The Guardian (<a href= "https://www.theguardian.com/news/2019/may/14/why-copying-the-populist-right-isnt-going-to-save-the-left">1</a>,
 <a href= "https://www.theguardian.com/commentisfree/2022/jul/03/as-macron-does-quiet-deals-with-le-pen-the-far-right-has-france-in-its-grip">2</a>), 
 The New York Times (<a href= "https://www.nytimes.com/interactive/2019/06/26/opinion/sunday/republican-platform-far-right.html">1</a>,
-<a href= "https://www.nytimes.com/2023/02/08/opinion/germany-far-right-afd.html">2</a>)
+<a href= "https://www.nytimes.com/2023/02/08/opinion/germany-far-right-afd.html">2</a>),
+El País (<a href= "https://agendapublica.elpais.com/noticia/18704/amenaza-al-equilibrio-politico-aleman">1</a>),
+El Periódico (<a href= "https://www.elperiodico.cat/ca/societat/20230618/guia-detectar-desmuntar-discurs-odi-88750605">1</a>),
 LSE EUROPP Blog (<a href= "https://blogs.lse.ac.uk/europpblog/2021/07/08/there-is-little-evidence-european-integration-has-created-a-representation-gap-between-politicians-and-voters/">1</a>), 
 The Conversation (<a href= "https://theconversation.com/the-exclusion-of-women-in-myanmar-politics-helped-fuel-the-military-coup-154701">1</a>), 
 Spiegel Online (<a href="https://www.spiegel.de/wissenschaft/mensch/alternative-fuer-deutschland-politikstil-please-staerke-die-afd-a-a6a6b50c-2944-4674-acdc-446eff3f93d1">1</a>),
@@ -44,13 +48,14 @@ SWR (<a href= "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheimer-studi
 TAZ - Die Tageszeitung (<a href= "https://taz.de/Studie-zu-Wahlerfolgen-rechter-Parteien/!5849870/">1</a>).</li>
 </ul>
         
-<h3>Invited Talks</h3>
+<h3>Invited Talks (Selection)</h3>
         
 <ul>
-<li>Getting the Most out of Comparative Vote Switching Data. A New Framework for Studying Dynamic Multi-Party Competition. <it>Université de Montréal</it>, Nov 30 2021.</li>
-<li>Does Right-wing Terrorism Cause Public Support for Radical Right Parties? <it>ECR Workshop Series</it>, Jul 1 2020.</li>
-<li>Introduction to Regression Discontinuity Designs. <it>Humboldt University Berlin</it>, Jan 15 2020.</li>
-<li>Mainstream Right Party Policy Positions in a Changing Political Space and the Impact of Radical Right Party Success. <it>WZB Berlin Social Science Center, Nov 11 2019.</it></li>
-<li>Populism: Characteristics, Challenges, Counter-Strategies. <it>16. International Futures Program (DGAP), German Foreign Office, Berlin, Sep 25 2019.</it></li>
+<li>Should We Include Margins of Error in Public Opinion Polls? <it>Sciences PoCEVIPOF</it>, Paris, 2023.
+<li>Getting the Most out of Comparative Vote Switching Data. A New Framework for Studying Dynamic Multi-Party Competition. <it>Université de Montréal</it>, 2021.</li>
+<li>Does Right-wing Terrorism Cause Public Support for Radical Right Parties? <it>ECR Workshop Series</it>, 2020.</li>
+<li>Introduction to Regression Discontinuity Designs. <it>Humboldt University Berlin</it>, 2020.</li>
+<li>Mainstream Right Party Policy Positions in a Changing Political Space and the Impact of Radical Right Party Success. <it>WZB Berlin Social Science Center, 2019.</it></li>
+<li>Populism: Characteristics, Challenges, Counter-Strategies. <it>16. International Futures Program (DGAP), German Foreign Office, Berlin, 2019.</it></li>
 </ul>
 
