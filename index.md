@@ -19,7 +19,7 @@ layout: default
 <table>
   <tr>
     <td class="test">July 2023</td>
-    <td> <i>New (forthcoming) publication</i> in the <a href="https://denis-cohen.github.io/vote-switching/cohen_krause_abou-chadi_comparative_vote_switching-jop.pdf" target="_blank" rel="noopener noreferrer">Journal of Politics</a>. Denis Cohen, Tarik Abou-Chadi, and I propose a new conceptual framework, method and data infrastructure to work with comparative vote switching data. A summary of the paper's key points can be found on <a href="https://twitter.com/denis_cohen/status/1681978399072436227" target="_blank" rel="noopener noreferrer">Twitter</a>.</td>
+    <td> <i>New (forthcoming) publication</i> in the <a href="https://denis-cohen.github.io/vote-switching/cohen_krause_abou-chadi_comparative_vote_switching-jop.pdf" target="_blank" rel="noopener noreferrer">Journal of Politics</a>. Denis Cohen, Tarik Abou-Chadi, and I propose a new conceptual framework, method, and data infrastructure to work with comparative vote switching data. A summary of the paper's key points can be found on <a href="https://twitter.com/denis_cohen/status/1681978399072436227" target="_blank" rel="noopener noreferrer">Twitter</a>.</td>
   </tr>
 
   <tr>
@@ -41,7 +41,7 @@ layout: default
   
   <tr>
     <td class="test">February 2023</td>
-    <td> <i>Article</i> at <a href="https://verfassungsblog.de/rechts-nur-noch-die-wand/" target="_blank" rel="noopener noreferrer">Verfassungblog</a>. Together with Tarik Abou-Chadi (University of Oxford) and Denis Cohen (University of Mannheim), I discuss the current interaction between Germany's center-right and radical right parties. Based on our research, we argue that the increasing rhetorical and positional convergence between both parties will strengthen the radical right.
+    <td> <i>Article</i> at <a href="https://verfassungsblog.de/rechts-nur-noch-die-wand/" target="_blank" rel="noopener noreferrer">Verfassungblog</a>. Together with Tarik Abou-Chadi (University of Oxford) and Denis Cohen (MZES Mannheim), I discuss the current interaction between Germany's center-right and radical right parties. Based on our research, we argue that the increasing rhetorical and positional convergence between both parties will strengthen the radical right.
     </td>
   </tr>
 

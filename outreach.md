@@ -51,11 +51,11 @@ TAZ - Die Tageszeitung (<a href= "https://taz.de/Studie-zu-Wahlerfolgen-rechter-
 <h3>Invited Talks (Selection)</h3>
         
 <ul>
-<li>Should We Include Margins of Error in Public Opinion Polls? <it>Sciences PoCEVIPOF</it>, Paris, 2023.
+<li>Should We Include Margins of Error in Public Opinion Polls? <it>Sciences Po CEVIPOF</it>, Paris, 2023.
 <li>Getting the Most out of Comparative Vote Switching Data. A New Framework for Studying Dynamic Multi-Party Competition. <it>Université de Montréal</it>, 2021.</li>
 <li>Does Right-wing Terrorism Cause Public Support for Radical Right Parties? <it>ECR Workshop Series</it>, 2020.</li>
 <li>Introduction to Regression Discontinuity Designs. <it>Humboldt University Berlin</it>, 2020.</li>
 <li>Mainstream Right Party Policy Positions in a Changing Political Space and the Impact of Radical Right Party Success. <it>WZB Berlin Social Science Center, 2019.</it></li>
 <li>Populism: Characteristics, Challenges, Counter-Strategies. <it>16. International Futures Program (DGAP), German Foreign Office, Berlin, 2019.</it></li>
-</ul>
+
 
