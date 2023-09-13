@@ -6,7 +6,7 @@ layout: default
 
 <h3 id="publs">Articles (peer-reviewed)</h3>
 <ul>
-    <li> Comparative Vote Switching. A New Framework for Studying Dynamic Multi-Party Competition (with Denis Cohen and Tarik Abou-Chadi). 2023. <i>Journal of Politics</i>. Forthcoming, 1-26. <a href="https://denis-cohen.github.io/vote-switching/cohen_krause_abou-chadi_comparative_vote_switching-jop.pdf" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://doi.org/10.7910/DVN/46UDEI" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
+    <li> Comparative Vote Switching. A New Framework for Studying Dynamic Multi-Party Competition (with Denis Cohen and Tarik Abou-Chadi). 2023. <i>Journal of Politics</i>. Forthcoming, 1-26. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/726952?journalCode=jop" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://denis-cohen.github.io/vote-switching/cohen_krause_abou-chadi_comparative_vote_switching-jop.pdf" target="_blank" rel="noopener noreferrer">[Free Version]</a> <a href="https://doi.org/10.7910/DVN/46UDEI" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
     <br>  
     <li> Does Right-Wing Violence Affect Public Support for Radical Right Parties? Evidence from Germany (with Miku Matsunaga). 2023. <i>Comparative Political Studies</i>. Online First, 1-37. <a href="https://doi.org/10.1177/00104140231169021" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V2WGQV" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
     <br>    

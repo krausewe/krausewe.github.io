@@ -5,6 +5,12 @@ layout: default
 <h2 id="publs">Teaching</h2>
 I teach courses on comparative politics and (advanced) quantitative research methods at the undergraduate and the graduate level.<br>
 
+<h4>Winter 2023/24</h4>
+<ul>
+<li>Democracy Under Pressure? Contemporary Discussions on Challenges and Dangers to Representative Democracy (in-person), Graduate</li>
+<li>Fundamentals of Comparative Politics, Advanced Seminar (in-person), Undergraduate</li>
+</ul>
+
 <h4>Summer 2023</h4>
 <ul>
 <li>Political Violence in Representative Democracies – Causes and Consequences, University of Potsdam (in-person), Graduate</li>
