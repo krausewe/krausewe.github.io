@@ -6,7 +6,7 @@ layout: default
 
   I am a political scientist at the Chair of Comparative Politics of the <a href="https://www.uni-potsdam.de/en/vergleichende-politikwissenschaft/team/dr-werner-krause" target = "_blank" rel="noopener noreferrer">University of Potsdam</a>, where I teach classes on comparative politics, political behavior, and research methods. Previously, I worked as a research fellow at the University of Vienna, the Humboldt University of Berlin and the WZB Berlin Social Science Center. I was also a visiting scholar at the University of Essex.<br>
   
-  My research areas include political representation, party competition, political radicalism/extremism, and quantitative methods with a focus on causal inference. In my current research projects, I study political phenomena such as democratic responsiveness, political violence, and citizens' voting behavior. My work has been published in different academic journals, like the <i>Journal of Politics</i>, <i>Comparative Political Studies</i>, the <i>British Journal of Political Science</i>, or <i>Political Science Research and Methods</i>. I contributed chapters to books published by <i>Cambridge University Press</i> and <i>Springer VS</i>. <br>  
+  My research areas include political representation, party competition, political radicalism/extremism, and quantitative methods with a focus on causal inference. In my current research projects, I study political phenomena such as democratic responsiveness, political violence, and citizens' voting behavior. My work has been published in different academic journals, like the <i>Journal of Politics</i>, <i>Comparative Political Studies</i>, the <i>British Journal of Political Science</i>, the <i>European Journal of Political Research</i> or <i>Political Science Research and Methods</i>. I contributed chapters to books published by <i>Cambridge University Press</i> and <i>Springer VS</i>. <br>  
         
   My work and the projects I contributed to have been covered in various national and international media outlets, such as <i>The Guardian</i>, <i>The New York Times</i>, and <i>The Washington Post</i>. Click <a href="./outreach.html">here</a> for a comprehensive list of my media appearances.
  <br>
@@ -18,7 +18,18 @@ layout: default
 
 <table>
   <tr>
-    <td class="test">July 2023</td>
+
+  <tr>
+    <td class="test">November 2023</td>
+    <td> <i>New (forthcoming) publication</i> in the <a href="http://doi.org/10.1111/1475-6765.12633" target="_blank" rel="noopener noreferrer">European Journal of Political Research</a>. Using a large-scale survey experiment, Christina Gahn (University of Vienna) and I investigate whether exposing citizens to margins of error in public opinion polls alters their vote intentions.</td>
+  </tr>
+  
+  <tr>
+    <td class="test">September 2023</td>
+    <td> In a <a href ="https://theloop.ecpr.eu/right-wing-violence-and-the-persistence-of-far-right-popularity/" target="_blank" rel="noopener noreferrer">blog post</a>, I discuss together with Miku Matsunaga (University of Tokyo) the relationship between rising right-wing violence and far-right party support. This post is based on our <i>recent publication</i> in <a href="https://doi.org/10.1177/00104140231169021" target="_blank" rel="noopener noreferrer">Comparative Political Studies</a> in which we investigate how support for the German AfD has developed after increases in right-wing violent attacks.</td>
+  </tr>
+  
+  <td class="test">July 2023</td>
     <td> <i>New (forthcoming) publication</i> in the <a href="https://denis-cohen.github.io/vote-switching/cohen_krause_abou-chadi_comparative_vote_switching-jop.pdf" target="_blank" rel="noopener noreferrer">Journal of Politics</a>. Denis Cohen, Tarik Abou-Chadi, and I propose a new conceptual framework, method, and data infrastructure to work with comparative vote switching data. A summary of the paper's key points can be found on <a href="https://twitter.com/denis_cohen/status/1681978399072436227" target="_blank" rel="noopener noreferrer">Twitter</a>.</td>
   </tr>
 
@@ -26,12 +37,6 @@ layout: default
     <td class="test">July 2023</td>
     <td> I talked with <a href = "https://www.dw.com/en/why-copying-the-far-right-doesnt-work-for-mainstream-parties/a-66311564" target="_blank" rel="noopener noreferrer">Deutsche Welle</a> about the current rise of the AfD in the polls and the CDU/CSU's reactions. The interview was based on my research on the interaction between center-right and radical right parties in Europe, which can be read <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/causal-effect-of-radical-right-success-on-mainstream-parties-policy-positions-a-regression-discontinuity-approach/6C78B1EF4B39361A9A2B38DF86B24A90" target="_blank" rel="noopener noreferrer">here</a>, <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/does-accommodation-work-mainstream-party-strategies-and-the-success-of-radical-right-parties/5C3476FCD26B188C7399ADD920D71770" target="_blank" rel="noopener noreferrer">here</a>, <a href="https://www.cambridge.org/core/books/riding-the-populist-wave/supply-side-mainstream-right-party-policy-positions-in-a-changing-political-space-in-western-europe/B19BBFF2FA0561061559CCFE0F38B663" target="_blank" rel="noopener noreferrer">here</a>, and <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/does-accommodation-work-mainstream-party-strategies-and-the-success-of-radical-right-parties/5C3476FCD26B188C7399ADD920D71770" target="_blank" rel="noopener noreferrer">here</a>.
     </td>
-  </tr>
-  
-  
-  <tr>
-    <td class="test">June 2023</td>
-    <td> <i>New publication</i> in <a href="https://doi.org/10.1177/00104140231169021" target="_blank" rel="noopener noreferrer">Comparative Political Studies</a>. Together with Miku Matsunaga (University of Tokyo), I investigate how far right party support has developed after right-wing violent attacks in Germany between 2013 and 2019.</td>
   </tr>
 
   <tr>
