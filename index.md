@@ -6,9 +6,12 @@ layout: default
 
   I am a political scientist at the Chair of Comparative Politics of the <a href="https://www.uni-potsdam.de/en/vergleichende-politikwissenschaft/team/dr-werner-krause" target = "_blank" rel="noopener noreferrer">University of Potsdam</a>, where I teach classes on comparative politics, political behavior, and research methods. Previously, I worked as a research fellow at the University of Vienna, the Humboldt University of Berlin and the WZB Berlin Social Science Center. I was also a visiting scholar at the University of Essex.<br>
   
-  My research areas include political representation, party competition, political radicalism/extremism, and quantitative methods with a focus on causal inference. In my current research projects, I study political phenomena such as democratic responsiveness, political violence, and citizens' voting behavior. My work has been published in different academic journals, like the <i>Journal of Politics</i>, <i>Comparative Political Studies</i>, the <i>British Journal of Political Science</i>, the <i>European Journal of Political Research</i> or <i>Political Science Research and Methods</i>. I contributed chapters to books published by <i>Cambridge University Press</i> and <i>Springer VS</i>. <br>  
+  My research areas include political representation, party competition, political radicalism/extremism, and quantitative methods with a focus on causal inference. In my current research projects, I study political phenomena such as democratic responsiveness, political violence, and citizens' voting behavior. 
+  
+  My work has been published in different academic journals, like the <i>Journal of Politics</i>, <i>Comparative Political Studies</i>, the <i>British Journal of Political Science</i>, the <i>European Journal of Political Research</i> or <i>Political Science Research and Methods</i>. I contributed chapters to books published by <i>Cambridge University Press</i> and <i>Springer VS</i>. Click <a href="./publs.html">here</a> for a list of my publications.
+ <br> 
         
-  My work and the projects I contributed to have been covered in various national and international media outlets, such as <i>The Guardian</i>, <i>The New York Times</i>, and <i>The Washington Post</i>. Click <a href="./outreach.html">here</a> for a comprehensive list of my media appearances.
+  My work and the projects I contributed to have been covered in various media outlets, such as <i>Der Standard</i>, <i>El País</i>, <i>Haaretz</i>,  <i>The Guardian</i>, <i>The New York Times</i>, and <i>The Washington Post</i>. Click <a href="./outreach.html">here</a> for an overview of my media appearances.
  <br>
 
   Currently, I am a principal investigator in the DFG funded project <i>Powerful Polls? The Influence of Public Opinion Polls on Elections in Representative Democracies</i> and the data project <i>Political Parties, Presidents, Elections, and Governments</i> (<a href="https://ppeg.wzb.eu" target="_blank" rel="noopener noreferrer">PPEG</a>). In the past, I was part of the project <i>Manifesto Research on Political Representation</i> (<a href="https://manifesto-project.wzb.eu/" target="_blank" rel="noopener noreferrer">MARPOR</a>) and contributed to the <i>Issue Competition Comparative Project</i> (<a href="https://cise.luiss.it/iccp/" target="_blank" rel="noopener noreferrer">ICCP</a>). <br>
@@ -20,8 +23,14 @@ layout: default
   <tr>
 
   <tr>
+    <td class="test">December 2023</td>
+    <td>Against the backdrop of current asylum law changes in Europe, I talked to <a href="https://elpais.com/internacional/2023-12-24/mano-dura-con-la-inmigracion-victoria-de-la-extrema-derecha-o-antidoto.html" target="_blank" rel="noopener noreferrer">El País</a>, <a href="https://www.nrc.nl/nieuws/2023/12/22/het-nieuwe-migratiepact-van-de-eu-lost-nauwelijks-wat-op-maar-speelt-radicaal-rechts-intussen-wel-in-de-kaart-a4185182" target="_blank" rel="noopener noreferrer">NRC</a>, and <a href="https://www.elperiodico.com/es/internacional/20231210/extrema-derecha-multiplica-influencia-nuevas-politicas-migratorias-europa-95571964" target="_blank" rel="noopener noreferrer">El Periódico</a>. The interviews were based on my research on the interaction between center-right and radical right parties in Europe, which can be read <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/causal-effect-of-radical-right-success-on-mainstream-parties-policy-positions-a-regression-discontinuity-approach/6C78B1EF4B39361A9A2B38DF86B24A90" target="_blank" rel="noopener noreferrer">here</a>, <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/does-accommodation-work-mainstream-party-strategies-and-the-success-of-radical-right-parties/5C3476FCD26B188C7399ADD920D71770" target="_blank" rel="noopener noreferrer">here</a>, <a href="https://www.cambridge.org/core/books/riding-the-populist-wave/supply-side-mainstream-right-party-policy-positions-in-a-changing-political-space-in-western-europe/B19BBFF2FA0561061559CCFE0F38B663" target="_blank" rel="noopener noreferrer">here</a>, and <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/does-accommodation-work-mainstream-party-strategies-and-the-success-of-radical-right-parties/5C3476FCD26B188C7399ADD920D71770" target="_blank" rel="noopener noreferrer">here</a>.</td>
+  </tr>
+  
+  <tr>
     <td class="test">November 2023</td>
-    <td> <i>New (forthcoming) publication</i> in the <a href="http://doi.org/10.1111/1475-6765.12633" target="_blank" rel="noopener noreferrer">European Journal of Political Research</a>. Using a large-scale survey experiment, Christina Gahn (University of Vienna) and I investigate whether exposing citizens to margins of error in public opinion polls alters their vote intentions.</td>
+    <td> <i>New (forthcoming) publication</i> in the <a href="http://doi.org/10.1111/1475-6765.12633" target="_blank" rel="noopener noreferrer">European Journal of Political Research</a>. Using a large-scale survey experiment, Christina Gahn (University of Vienna) and I investigate whether exposing citizens to margins of error in public opinion polls alters their vote intentions. We summarized the core findings in a post at <a href="https://verfassungsblog.de/die-macht-der-sonntagsfrage/" target="_blank" rel="noopener noreferrer">Verfassungblog</a>. This research was also covered in <a href="https://www.derstandard.de/story/3000000198650/beeinflussen-umfragen-waehler-darueber-entscheiden-auch-schwankungsbreiten" target="_blank" rel="noopener noreferrer">Der Standard</a>.
+    </td>
   </tr>
   
   <tr>
@@ -33,9 +42,10 @@ layout: default
     <td> <i>New (forthcoming) publication</i> in the <a href="https://denis-cohen.github.io/vote-switching/cohen_krause_abou-chadi_comparative_vote_switching-jop.pdf" target="_blank" rel="noopener noreferrer">Journal of Politics</a>. Denis Cohen, Tarik Abou-Chadi, and I propose a new conceptual framework, method, and data infrastructure to work with comparative vote switching data. A summary of the paper's key points can be found on <a href="https://twitter.com/denis_cohen/status/1681978399072436227" target="_blank" rel="noopener noreferrer">Twitter</a>.</td>
   </tr>
 
+<!--
   <tr>
     <td class="test">July 2023</td>
-    <td> I talked with <a href = "https://www.dw.com/en/why-copying-the-far-right-doesnt-work-for-mainstream-parties/a-66311564" target="_blank" rel="noopener noreferrer">Deutsche Welle</a> about the current rise of the AfD in the polls and the CDU/CSU's reactions. The interview was based on my research on the interaction between center-right and radical right parties in Europe, which can be read <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/causal-effect-of-radical-right-success-on-mainstream-parties-policy-positions-a-regression-discontinuity-approach/6C78B1EF4B39361A9A2B38DF86B24A90" target="_blank" rel="noopener noreferrer">here</a>, <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/does-accommodation-work-mainstream-party-strategies-and-the-success-of-radical-right-parties/5C3476FCD26B188C7399ADD920D71770" target="_blank" rel="noopener noreferrer">here</a>, <a href="https://www.cambridge.org/core/books/riding-the-populist-wave/supply-side-mainstream-right-party-policy-positions-in-a-changing-political-space-in-western-europe/B19BBFF2FA0561061559CCFE0F38B663" target="_blank" rel="noopener noreferrer">here</a>, and <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/does-accommodation-work-mainstream-party-strategies-and-the-success-of-radical-right-parties/5C3476FCD26B188C7399ADD920D71770" target="_blank" rel="noopener noreferrer">here</a>.
+    <td> I talked with <a href = "https://www.dw.com/en/why-copying-the-far-right-doesnt-work-for-mainstream-parties/a-66311564" target="_blank" rel="noopener noreferrer">Deutsche Welle</a> about the current rise of the AfD in the polls and the CDU/CSU's reactions. 
     </td>
   </tr>
 
@@ -51,7 +61,7 @@ layout: default
   </tr>
 
 
-<!--
+
   <tr>
     <td class="test">November 2022</td>
     <td> <i>Presentation</i> at the <a href="https://www.oegpw.at/fileadmin/user_upload/Political_Science_Day_2022_Programm.pdf" target="_blank" rel="noopener noreferrer">Political Science Day 2022</a> of the Austrian Political Science Association (AuPSA) at the University of Graz. I presented results of a survey experiment conducted with Christina Gahn. In our research, we ask whether and how public opinion polls can be best communicated to voters and how different graphical displays of polls affects citizens' vote decisions.</td>
@@ -85,4 +95,4 @@ layout: default
 </table>
 
 <br>
-<p><small>Last Update: 2023-06-24. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+<p><small>Last Update: 2024-01-02. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
