@@ -47,7 +47,7 @@ Africa Portal
   [
   <a href= "https://africaportal.org/publication/sustaining-peace-harnessing-power-south-sudanese-women/">1</a>,
   <a href= "https://africaportal.org/publication/towards-gender-equal-peace-counting-women-meaningful-participation/">2</a>
-  ], 
+  ]
 </li>
 
 <li>
@@ -64,6 +64,7 @@ Courrier international
   ] 
 </li>
 
+<li>
 Center for Strategic & International Studies (CSIS)
   [
   <a href= "https://www.csis.org/analysis/elevating-women-peacebuilders-amidst-covid-19">1</a>
