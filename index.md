@@ -95,4 +95,4 @@ layout: default
 </table>
 
 <br>
-<p><small>Last Update: 2024-01-02. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+<p><small>Last Update: 2024-01-19. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>

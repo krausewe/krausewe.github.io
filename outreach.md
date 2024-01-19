@@ -8,6 +8,9 @@ layout: default
 
 
 <ul>
+<li><a href= "https://www.deutschlandfunk.de/bsw-in-brandenburg-wie-stellen-sich-die-anderen-parteien-darauf-ein-dlf-62ff33ed-100.html">BSW in Brandenburg – Wie stellen sich die anderen Parteien darauf ein. </a> <it>Deutschlandfunk</it>, Jan 18 2024.</li>
+
+<li><a href= "https://www.maz-online.de/brandenburg/was-wuerde-passieren-wenn-die-afd-in-brandenburg-regiert-7Y2OOW6MQ5HYRFIAPKEZQ5TFZQ.html">Was passieren würde, wenn die AfD in Brandenburg regiert. </a> <it>Märkische Allgemeine Zeitung</it>, Jan 18 2024.</li>
 
 <li><a href= "https://www.derstandard.de/story/3000000198650/beeinflussen-umfragen-waehler-darueber-entscheiden-auch-schwankungsbreiten">Beeinflussen Umfragen Wähler? Darüber entscheiden auch Schwankungsbreiten. </a> <it>Der Standard</it>, Dec 29 2023.</li>
 
@@ -136,6 +139,13 @@ European Parliament - Directorate-General for Internal Policies of the Union
 </li>
 
 <li>
+Neue Gesellschaft | Frankfurter Hefte. Die Zeitschrift für Politik und Kultur
+  [
+  <a href= "https://www.frankfurter-hefte.de/artikel/annaehern-oder-abgrenzen-3864/">1</a>
+  ]
+</li>
+
+<li>
 Foreign Policy 
   [
   <a href= "https://foreignpolicy.com/2023/11/01/the-far-right-is-winning-europes-immigration-debate/">1</a>
@@ -244,6 +254,14 @@ The Guardian
 </li>
 
 <li>
+The House 
+  [
+  <a href= "https://www.politicshome.com/thehouse/article/professor-see-now-polling">1</a>
+  ] 
+</li>
+
+
+<li>
 The New York Times 
   [
   <a href= "https://www.nytimes.com/interactive/2019/06/26/opinion/sunday/republican-platform-far-right.html">1</a>,
@@ -271,6 +289,20 @@ United Nations - International Organization for Migration (IOM)
 United Nations - Economic Commission for Europe (UNECE)  
   [
   <a href= "https://unece.org/info/publications/pub/359183">1</a>
+  ]
+</li>
+
+<li>
+Vikerkaar
+  [
+  <a href= "https://www.vikerkaar.ee/archives/29872">1</a>
+  ]
+</li>
+
+<li>
+Wiardi Beckman Stichting
+  [
+  <a href= "https://wbs.nl/publicaties/economisch-links-groen-en-progressief#_ednref9">1</a>
   ]
 </li>
 
