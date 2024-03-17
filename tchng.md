@@ -5,6 +5,12 @@ layout: default
 <h2 id="publs">Courses</h2>
 I teach courses on comparative politics and (advanced) quantitative research methods at the undergraduate and the graduate level.<br>
 
+<h4>Summer 2024</h4>
+<ul>
+<li>The Far Right in Europe, University of Potsdam, Undergraduate</li>
+<li>Fundamentals of Comparative Politics and Political Behavior, Advanced Seminar, University of Potsdam, Undergraduate</li>
+</ul>
+
 <h4>Winter 2023/24</h4>
 <ul>
 <li>Democracy Under Pressure? Contemporary Discussions on Challenges and Dangers to Representative Democracy, University of Potsdam, Graduate</li>
