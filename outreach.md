@@ -6,8 +6,20 @@ layout: default
 
 <h3>Media Appearances (Selection)</h3>
 
-
 <ul>
+
+<li><a href= "https://www.deutschlandfunk.de/wackeliges-fundament-wie-repraesentativ-sind-repraesentative-umfragen-wirklich-dlf-b09611a3-100.html">Umfragen - Lässt sich von einigen Menschen auf alle schließen?</a> <it>Deutschlandfunk</it>, Mar 07 2024.</li>
+
+<li><a href= "https://www.deutschlandfunk.de/wissenschaft-wie-repraesentativ-sind-repraesentative-umfragen-wirklich-dlf-82dd38a9-100.html">Wissenschaft: Wie repräsentativ sind repräsentative Umfragen wirklich?</a> <it>Deutschlandfunk</it>, Mar 07 2024.</li>
+
+<li><a href= "https://www.deutschlandfunkkultur.de/wahlumfragen-in-der-kritik-wie-repraesentativ-sind-sie-heute-noch-dlf-kultur-f4d1e50d-100.html">Wahlumfragen in der Kritik. Wie repräsentativ sind sie heute noch?</a> <it>Deutschlandfunk Kultur</it>, Mar 07 2024.</li>
+
+<li><a href= "https://www.deutschlandfunkkultur.de/brandenburgs-spd-regierungschef-woidke-kaempft-gegen-den-absturz-laenderreport-dlf-kultur-dd9b4265-100.html">Brandenburgs SPD – Regierungschef Woidke kämpft gegen den Absturz.</a> <it>Deutschlandfunk Kultur</it>, Feb 14 2024.</li>
+
+<li><a href= "https://www.rbb24.de/politik/beitrag/2024/02/brandenburg-politi-parteien-bsw-landesverband-wagenknecht.html">Countdown für Wagenknecht-Partei läuft in Brandenburg. </a> <it>Rundfunk Berlin-Brandenburg, RBB</it>, Feb 13 2024.</li>
+
+<li><a href= "https://taz.de/Politologe-ueber-Migrationspolitik/!5989700/"> Politologe über Migrationspolitik: „Das hilft der AfD“.</a> <it>taz, Die Tageszeitung</it>, Feb 04 2024.</li>
+
 <li><a href= "https://www.deutschlandfunk.de/bsw-in-brandenburg-wie-stellen-sich-die-anderen-parteien-darauf-ein-dlf-62ff33ed-100.html">BSW in Brandenburg – Wie stellen sich die anderen Parteien darauf ein. </a> <it>Deutschlandfunk</it>, Jan 18 2024.</li>
 
 <li><a href= "https://www.maz-online.de/brandenburg/was-wuerde-passieren-wenn-die-afd-in-brandenburg-regiert-7Y2OOW6MQ5HYRFIAPKEZQ5TFZQ.html">Was passieren würde, wenn die AfD in Brandenburg regiert. </a> <it>Märkische Allgemeine Zeitung</it>, Jan 18 2024.</li>
@@ -56,7 +68,8 @@ Africa Portal
 <li>
 CNN 
   [
-  <a href= "https://edition.cnn.com/2019/10/22/opinions/marie-yovanovitch-launches-insurrection-hunt/index.html">1</a>
+  <a href= "https://edition.cnn.com/2019/10/22/opinions/marie-yovanovitch-launches-insurrection-hunt/index.html">1</a>,
+  <a href= "https://edition.cnn.com/2024/01/19/opinions/germany-far-right-afd-ban-hockenos/index.html">2</a>
   ] 
 </li>
 
@@ -85,7 +98,8 @@ Deutschlandfunk Nova
 <li>
 Deutschlandfunk Kultur 
   [
-  <a href= "https://www.deutschlandfunkkultur.de/stimmenfang-am-rechten-rand-lohnt-sich-nicht-dlf-kultur-b8cde89c-100.html">1</a>
+  <a href= "https://www.deutschlandfunkkultur.de/stimmenfang-am-rechten-rand-lohnt-sich-nicht-dlf-kultur-b8cde89c-100.html">1</a>,
+  <a href= "https://www.deutschlandfunkkultur.de/wahrnehmungsluecke-deshalb-sind-umfrageergebnisse-keine-wahlergebnisse-dlf-kultur-6cf54334-100.html">2</a>
   ]
 </li>
 
@@ -99,7 +113,8 @@ DVPW Blog
 <li>
 Der Spiegel
   [
-  <a href="https://www.spiegel.de/wissenschaft/mensch/alternative-fuer-deutschland-politikstil-please-staerke-die-afd-a-a6a6b50c-2944-4674-acdc-446eff3f93d1">1</a>
+  <a href="https://www.spiegel.de/wissenschaft/mensch/alternative-fuer-deutschland-politikstil-please-staerke-die-afd-a-a6a6b50c-2944-4674-acdc-446eff3f93d1">1</a>,
+  <a href="https://www.spiegel.de/wissenschaft/mensch/rechtsextremismus-die-forschung-zeigt-wie-man-die-afd-kleinkriegt-kolumne-a-3c7e1a1d-e9f8-4d1d-a0b7-f5d457f8eb98?sara_ref=re-so-app-sh">2</a>
   ]
 </li>
 
@@ -139,18 +154,20 @@ European Parliament - Directorate-General for Internal Policies of the Union
 </li>
 
 <li>
-Neue Gesellschaft | Frankfurter Hefte. Die Zeitschrift für Politik und Kultur
-  [
-  <a href= "https://www.frankfurter-hefte.de/artikel/annaehern-oder-abgrenzen-3864/">1</a>
-  ]
-</li>
-
-<li>
 Foreign Policy 
   [
   <a href= "https://foreignpolicy.com/2023/11/01/the-far-right-is-winning-europes-immigration-debate/">1</a>
   ]
 </li>
+
+<li>
+Friedrich Ebert Stiftung 
+  [
+  <a href= "https://library.fes.de/pdf-files/bueros/stockholm/21030.pdf">1</a>, 
+  <a href= "https://library.fes.de/pdf-files/a-p-b/18074.pdf">2</a>
+  ]
+</li>
+
 
 <li>
 Institute for Public Policy Research (IPPR)
@@ -182,6 +199,21 @@ LSE EUROPP Blog
 </li>
 
 <li>
+Neue Gesellschaft | Frankfurter Hefte. Die Zeitschrift für Politik und Kultur
+  [
+  <a href= "https://www.frankfurter-hefte.de/artikel/annaehern-oder-abgrenzen-3864/">1</a>
+  ]
+</li>
+
+<li>
+NRK - Norsk rikskringkasting
+  [
+  <a href= "https://www.nrk.no/trondelag/sann-blir-samfunnet-pavirka-av-kvinnelige-ledere-1.16627349">1</a>
+  ]
+</li>
+
+
+<li>
 OECD - Environment Working Papers
   [
   <a href= "https://www.oecd-ilibrary.org/environment/women-s-leadership-in-environmental-action_f0038d22-en">1</a>
@@ -201,6 +233,13 @@ Oxfam
 Political Violence At A Glance
   [
   <a href= "https://politicalviolenceataglance.org/2023/01/26/the-colombian-government-and-the-eln-rebels-are-negotiating-again-women-need-a-seat-at-the-table/">1</a>
+  ]
+</li>
+
+<li>
+Parliament of Austria
+  [
+  <a href= "https://www.parlament.gv.at/aktuelles/mediathek/XXVII/VER/202?TS=1705928552">1</a>
   ]
 </li>
 
@@ -260,13 +299,20 @@ The House
   ] 
 </li>
 
+<li>
+The Nation 
+  [
+  <a href= "https://www.thenation.com/article/world/strategies-defeat-afd-germany/">1</a>
+  ] 
+</li>
 
 <li>
 The New York Times 
   [
   <a href= "https://www.nytimes.com/interactive/2019/06/26/opinion/sunday/republican-platform-far-right.html">1</a>,
   <a href= "https://www.nytimes.com/2023/02/08/opinion/germany-far-right-afd.html">2</a>,
-  <a href= "https://www.nytimes.com/2023/12/05/opinion/climate-change-europe-conservatives.html">3</a>
+  <a href= "https://www.nytimes.com/2023/12/05/opinion/climate-change-europe-conservatives.html">3</a>,
+  <a href= "https://www.nytimes.com/2024/01/31/opinion/biden-border-immigration.html">4</a>
   ]
 </li>
 
