@@ -44,7 +44,7 @@ layout: default
 
 <h3 id="publs">Data Sets</h3>
 <ul>
-    <li>PPEG. Database "Political Parties, Presidents, Elections, and Governments". Version: 2022v1. WZB Berlin Social Science Center (Robert Stelzle and Bernhard Weßels). <a href="https://ppeg.wzb.eu/" target="_blank" rel="noopener noreferrer">[Link to Data]</a></li><br>
+    <li>PPEG. Database "Political Parties, Presidents, Elections, and Governments". Version: 2024v1. WZB Berlin Social Science Center (Robert Stelzle and Bernhard Weßels). <a href="https://ppeg.wzb.eu/" target="_blank" rel="noopener noreferrer">[Link to Data]</a></li><br>
     <li>The Manifesto Data Collection. Manifesto Project (MRG/CMP/MARPOR). Versions 2018b-2021a. Berlin: WZB - Berlin Social Science Center (with Andrea Volkens, Tobias Burst, Pola Lehmann, Matthieß, Nicolas Merz, Sven Regel, Lisa Zehnter and Bernhard Weßels). <a href="https://doi.org/10.25522/manifesto.mpds.2021a" target="_blank" rel="noopener noreferrer">[Link to Data]</a></li><br>
     <li>The Manifesto Data Collection: South America. Manifesto Project (MRG/CMP/MARPOR). Versions 2018b-2020b. Berlin: WZB - Berlin Social Science Center (with Tobias Burst, Pola Lehmann, Matthieß, Nicolas Merz, Sven Regel, Lisa Zehnter and Bernhard Weßels). <a href="https://doi.org/10.25522/manifesto.mpdssa.2020b" target="_blank" rel="noopener noreferrer">[Link to Data]</a></li><br>
     <li>Manifesto Corpus. Versions 2018-2 - 2021-1. Berlin: WZB - Berlin Social Science Center (with Tobias Burst, Pola Lehmann,  Matthieß, Nicolas Merz, Sven Regel and Lisa Zehnter). <a href="https://manifesto-project.wzb.eu/information/documents/corpus" target="_blank" rel="noopener noreferrer">[Link to Data]</a></li>
