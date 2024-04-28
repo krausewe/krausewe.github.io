@@ -8,6 +8,10 @@ layout: default
 
 <ul>
 
+<li><a href= "https://www.mdr.de/wissen/psychologie-sozialwissenschaften/politische-strategie-gegen-die-afd-themen-uebernehmen-100.html">Zweifel am Dänemark-Modell. Wer rechte Themen übernimmt, nützt rechten Parteien – und schadet sich selbst </a> <it>MDR</it>, Apr 26 2024.</li>
+
+<li><a href= "https://www.morgenpost.de/berlin/article242024164/Die-Naehe-der-AfD-Brandenburg-zur-rechtsextremen-Szene.html">Die Nähe der AfD Brandenburg zur rechtsextremen Szene</a> <it>Berliner Morgenpost</it>, Apr 04 2024.</li>
+
 <li><a href= "https://www.deutschlandfunk.de/wackeliges-fundament-wie-repraesentativ-sind-repraesentative-umfragen-wirklich-dlf-b09611a3-100.html">Umfragen - Lässt sich von einigen Menschen auf alle schließen?</a> <it>Deutschlandfunk</it>, Mar 07 2024.</li>
 
 <li><a href= "https://www.deutschlandfunk.de/wissenschaft-wie-repraesentativ-sind-repraesentative-umfragen-wirklich-dlf-82dd38a9-100.html">Wissenschaft: Wie repräsentativ sind repräsentative Umfragen wirklich?</a> <it>Deutschlandfunk</it>, Mar 07 2024.</li>
@@ -168,11 +172,24 @@ Friedrich Ebert Stiftung
   ]
 </li>
 
+<li>
+infoLibre
+  [
+  <a href= "https://www.infolibre.es/politica/casos-estudios-reacciones-explican-pacto-migratorio-no-debilita-contrario-extrema-derecha_1_1763922.html">1</a>
+  ]
+</li>
 
 <li>
 Institute for Public Policy Research (IPPR)
   [
   <a href= "https://www.ippr.org/research/publications/road-to-renewal">1</a>
+  ]
+</li>
+
+<li>
+Intereconomics
+  [
+  <a href= "https://www.intereconomics.eu/contents/year/2024/number/2/article/the-far-right-and-the-2024-european-elections.html">1</a>
   ]
 </li>
 
@@ -288,7 +305,8 @@ The Guardian
   [
   <a href= "https://www.theguardian.com/news/2019/may/14/why-copying-the-populist-right-isnt-going-to-save-the-left">1</a>,
   <a href= "https://www.theguardian.com/commentisfree/2022/jul/03/as-macron-does-quiet-deals-with-le-pen-the-far-right-has-france-in-its-grip">2</a>,
-  <a href= "https://www.theguardian.com/world/2023/nov/26/far-right-normalised-mainstream-parties-geert-wilders-dutch">3</a>
+  <a href= "https://www.theguardian.com/world/2023/nov/26/far-right-normalised-mainstream-parties-geert-wilders-dutch">3</a>,
+  <a href= "https://www.theguardian.com/commentisfree/2024/apr/15/reform-uk-rishi-sunak-netherlands-europe-tories">4</a>
   ] 
 </li>
 
@@ -368,7 +386,10 @@ Zeit Online
 <h3>Invited Talks (Selection)</h3>
         
 <ul>
-<li>The Rise of Populism in Europe - Panel Discussion <it>futurEU initiative, Hertie School of Governance</it>, Berlin, 2023.</li>
+<li>Does Accommodation Work? Mainstream Party Strategies and the Success of Radical Right Parties. <it>Kiel Institute for the World Economy</it>, Berlin, 2024.</li>
+<li>Wehrhafte Demokratie vor aktuellen Herausforderungen [Current Challenges of Resilient Democracy] - Panel Discussion organized by the <it>Human Rights Center & Law Faculty at the University of Potsdam</it>, Potsdam, 2024.</li>
+<li>The Rise of Euroscepticism: The Case of Poland and Hungary - Panel Discussion at the <it>European Public Policy Conference, IE University</it>, Madrid, 2024.</li>
+<li>The Rise of Populism in Europe - Panel Discussion organized by <it>futurEU initiative, Hertie School of Governance</it>, Berlin, 2023.</li>
 <li>Should We Include Margins of Error in Public Opinion Polls? <it>Sciences Po CEVIPOF</it>, Paris, 2023.</li>
 <li>Getting the Most out of Comparative Vote Switching Data. A New Framework for Studying Dynamic Multi-Party Competition. <it>Université de Montréal</it>, 2021.</li>
 <li>Does Right-wing Terrorism Cause Public Support for Radical Right Parties? <it>ECR Workshop Series</it>, 2020.</li>
