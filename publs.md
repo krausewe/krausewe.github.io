@@ -50,7 +50,7 @@ layout: default
 
 <h3 id="publs">Software</h3>
 <ul>
-    <li>nuts: Convert European Regional Data. Version: 2024v1. WZB Berlin Social Science Center (with Moritz Hennicke). R package version 1.0.0. doi:10.5281/zenodo.10885973 <a href="https://docs.ropensci.org/nuts/articles/nuts.html" target="_blank" rel="noopener noreferrer">[Vignette]</a> <a href="https://github.com/ropensci/nuts" target="_blank" rel="noopener noreferrer">[Github Repository]</a> <a href="https://cran.r-project.org/web/packages/nuts/nuts.pdf" target="_blank" rel="noopener noreferrer">[Manual]</a> <a href="https://cran.r-project.org/web/packages/nuts/" target="_blank" rel="noopener noreferrer">[CRAN]</a></li><br>
+    <li>nuts: Convert European Regional Data (with Moritz Hennicke). 2024. R package version 1.1.0. doi:10.5281/zenodo.12736859 <a href="https://docs.ropensci.org/nuts/articles/nuts.html" target="_blank" rel="noopener noreferrer">[Vignette]</a> <a href="https://github.com/ropensci/nuts" target="_blank" rel="noopener noreferrer">[Github Repository]</a> <a href="https://cran.r-project.org/web/packages/nuts/nuts.pdf" target="_blank" rel="noopener noreferrer">[Manual]</a> <a href="https://cran.r-project.org/web/packages/nuts/" target="_blank" rel="noopener noreferrer">[CRAN]</a></li><br>
 </ul>
 
 <h3 id="publs">Data Sets</h3>
