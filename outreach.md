@@ -95,7 +95,7 @@ Landtagswahl Brandenburg: So perfide nutzt die AfD Schulen als Wahlkampf-Orte</a
         
 <ul> <li> Africa Portal [ <a href= "https://africaportal.org/publication/sustaining-peace-harnessing-power-south-sudanese-women/">1</a>, <a href= "https://africaportal.org/publication/towards-gender-equal-peace-counting-women-meaningful-participation/">2</a> ] </li>
 
-<li> Bonner Akademie für Forschung und Lehre praktischer Politik (BAPP)[ <a href= "https://www.bapp-bonn.de/wp-content/uploads/BAPP_Publikation_Forschungsprojekt_Populismus_final.pdf">1</a> ] </li> 
+<li> Bonner Akademie für Forschung und Lehre praktischer Politik [ <a href= "https://www.bapp-bonn.de/wp-content/uploads/BAPP_Publikation_Forschungsprojekt_Populismus_final.pdf">1</a> ] </li> 
 				
 <li> Bundeszentrale für politische Bildung[ <a href= "https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/551839/rechtsextreme-diskursstrategien/#footnote-target-3">1</a> ] </li>
 				
