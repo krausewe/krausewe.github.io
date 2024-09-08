@@ -97,7 +97,7 @@ Landtagswahl Brandenburg: So perfide nutzt die AfD Schulen als Wahlkampf-Orte</a
 
 <li> Bonner Akademie für Forschung und Lehre praktischer Politik [ <a href= "https://www.bapp-bonn.de/wp-content/uploads/BAPP_Publikation_Forschungsprojekt_Populismus_final.pdf">1</a> ] </li> 
 				
-<li> Bundeszentrale für politische Bildung[ <a href= "https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/551839/rechtsextreme-diskursstrategien/#footnote-target-3">1</a> ] </li>
+<li> Bundeszentrale für politische Bildung [ <a href= "https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/551839/rechtsextreme-diskursstrategien/#footnote-target-3">1</a> ] </li>
 				
 <li> CNN [ <a href= "https://edition.cnn.com/2019/10/22/opinions/marie-yovanovitch-launches-insurrection-hunt/index.html">1</a>, <a href= "https://edition.cnn.com/2024/01/19/opinions/germany-far-right-afd-ban-hockenos/index.html">2</a> ] </li>
 
