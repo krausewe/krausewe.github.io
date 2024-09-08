@@ -8,6 +8,15 @@ layout: default
 
 <ul>
 
+<li><a href= "https://www.rbb-online.de/brandenburgaktuell/archiv/20240905_1930/5.html">Brandenburger Spitzenkandidat:innen - Sebastian Walter im Check</a> <it>rbb 24, Brandenburg Aktuell</it>, Sep 05 2024.</li>
+
+<li><a href= "https://www.cbc.ca/listen/live-radio/1-8-your-world-tonight">Your World Tonight - AfD Election Victory</a> <it>CBC - Canadian Braodcasting Corporation</it>, Sep 01 2024.</li>
+
+<li><a href= "https://www.tagesspiegel.de/potsdam/brandenburg/afd-verteilt-flyer-fur-schuler-mit-diesen-funf-kniffen-will-die-partei-in-brandenburg-jugendliche-kodern-12245951.html">AfD verteilt Flyer für Schüler: Mit diesen fünf Kniffen will die Partei in Brandenburg Jugendliche ködern</a> <it>Tagesspiegel</it>, Aug 27 2024.</li>
+
+<li><a href= "https://politik.watson.de/politik/inland/128134084-brandenburg-landtagswahl-so-perfide-nutzt-die-afd-schulen-als-wahlkampf-orte">
+Landtagswahl Brandenburg: So perfide nutzt die AfD Schulen als Wahlkampf-Orte</a> <it>watson</it>, Aug 27 2024.</li>
+
 <li><a href= "https://www.maz-online.de/brandenburg/einfluss-von-umfragen-auf-die-landtagswahl-in-brandenburg-forscher-klaert-auf-YJ4UFV5QSJFZLEOOLUCVDRNRKA.html">Wie viel Macht haben Meinungsumfragen? Potsdamer Wahlforscher klärt auf</a> <it>Märkische Allgemeine Zeitung</it>, Aug 14 2024.</li>
 
 <li><a href= "https://www.maz-online.de/brandenburg/afd-spd-cdu-oder-bsw-wahlforscher-sieht-landtagswahl-in-brandenburg-voellig-offen-3ALRGBPPFZDLXHQ27MTYHSEA3Y.html">AfD, SPD, CDU oder sogar BSW? Wahlforscher sieht Rennen in Brandenburg völlig offen</a> <it>Märkische Allgemeine Zeitung</it>, Aug 14 2024.</li>
@@ -86,6 +95,10 @@ layout: default
         
 <ul> <li> Africa Portal [ <a href= "https://africaportal.org/publication/sustaining-peace-harnessing-power-south-sudanese-women/">1</a>, <a href= "https://africaportal.org/publication/towards-gender-equal-peace-counting-women-meaningful-participation/">2</a> ] </li>
 
+<li> Bonner Akademie für Forschung und Lehre praktischer Politik (BAPP)[ <a href= "https://www.bapp-bonn.de/wp-content/uploads/BAPP_Publikation_Forschungsprojekt_Populismus_final.pdf">1</a> ] </li> 
+				
+<li> Bundeszentrale für politische Bildung[ <a href= "https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/551839/rechtsextreme-diskursstrategien/#footnote-target-3">1</a> ] </li>
+				
 <li> CNN [ <a href= "https://edition.cnn.com/2019/10/22/opinions/marie-yovanovitch-launches-insurrection-hunt/index.html">1</a>, <a href= "https://edition.cnn.com/2024/01/19/opinions/germany-far-right-afd-ban-hockenos/index.html">2</a> ] </li>
 
 <li> Courrier international [ <a href= "https://www.courrierinternational.com/article/route-des-balkans-l-espace-schengen-patit-de-la-crise-migratoire">1</a> ] </li>
@@ -113,6 +126,8 @@ layout: default
 <li> Foreign Policy [ <a href= "https://foreignpolicy.com/2023/11/01/the-far-right-is-winning-europes-immigration-debate/">1</a> ] </li>
 
 <li> Friedrich Ebert Stiftung [ <a href= "https://library.fes.de/pdf-files/bueros/stockholm/21030.pdf">1</a>, <a href= "https://library.fes.de/pdf-files/a-p-b/18074.pdf">2</a> ] </li>
+
+<li> Global Citizen [ <a href= "https://www.globalcitizen.org/en/content/how-women-and-girls-are-disproportionately-affecte/">1</a> ] </li>
 
 <li> infoLibre [ <a href= "https://www.infolibre.es/politica/casos-estudios-reacciones-explican-pacto-migratorio-no-debilita-contrario-extrema-derecha_1_1763922.html">1</a> ] </li>
 

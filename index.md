@@ -10,6 +10,9 @@ layout: default
   
   My work has been <b>published in different academic journals</b>, like the <i>Journal of Politics</i>, <i>Comparative Political Studies</i>, the <i>British Journal of Political Science</i>, the <i>European Journal of Political Research</i> or <i>Political Science Research and Methods</i>. I contributed chapters to books published by <i>Cambridge University Press</i> and <i>Springer VS</i>. Click <a href="./publs.html">here</a> for a list of my publications.
  <br> 
+ 
+My research on the rise of the far right in Europe and Germany has been awarded with the <a href="https://x.com/cps_journal/status/1829166854650376555">James Caporaso Award</a> for the best paper published in <i>Comparative Political Studies</i>, the <a href="https://x.com/RepJournal/status/1455559826461761543">Representation Best Paper Prize</a> (Honorable Mention), and the <a href="https://www.wzb.eu/de/news/friends-of-the-wzb-award-0"> WZB Best Paper Award</a>.
+<br>
         
   My work and the projects I contributed to have been covered in <b>various media outlets</b>, such as <i>Deutschlandfunk</i>, <i>Der Standard</i>, <i>El País</i>, <i>Haaretz</i>, <i>Süddeutsche Zeitung</i>, <i>taz. Die Tageszeitung</i>,  <i>The Guardian</i>, <i>The New York Times</i>, and <i>The Washington Post</i>. Click <a href="./outreach.html">here</a> for an overview of my media appearances.
  <br>

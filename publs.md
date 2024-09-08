@@ -11,7 +11,9 @@ layout: default
     <li> Comparative Vote Switching. A New Framework for Studying Dynamic Multi-Party Competition (with Denis Cohen and Tarik Abou-Chadi). 2023. <i>Journal of Politics</i>. 86(2), 597-607. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/726952?journalCode=jop" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://denis-cohen.github.io/vote-switching/cohen_krause_abou-chadi_comparative_vote_switching-jop.pdf" target="_blank" rel="noopener noreferrer">[Free Version]</a> <a href="https://doi.org/10.7910/DVN/46UDEI" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
     <br>  
     <li> Does Right-Wing Violence Affect Public Support for Radical Right Parties? Evidence from Germany (with Miku Matsunaga). 2023. <i>Comparative Political Studies</i>. 56 (14), 2269-2305. <a href="https://doi.org/10.1177/00104140231169021" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V2WGQV" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
-    <br>    
+        <ul>
+            <li>James Caporaso Award</li>
+        </ul>
     <li> Does Accommodation Work? Mainstream Party Strategies and the Success of Radical Right Parties (with Denis Cohen and Tarik Abou-Chadi). 2023. <i>Political Science Research and Methods</i>. 11 (1), 172-179. <a href="https://doi.org/10.1017/psrm.2022.8" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBWB8I" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li>
     <br>    
     <li>Voter Turnout Decline and Party Responsiveness (with Lawrence Ezrow). 2023. <i>British Journal of Political Science</i>. 53 (1), 85-103. <a href="https://doi.org/10.1017/S0007123421000673" target="_blank" rel="noopener noreferrer">[Article]</a> <a href="https://doi.org/10.7910/DVN/PQ63DN" target="_blank" rel="noopener noreferrer">[Replication Material]</a> </li><br>
