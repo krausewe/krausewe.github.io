@@ -112,4 +112,4 @@ My research on the rise of the far right in Europe and Germany has been awarded 
 -->
 
 <br>
-<p><small>Last Update: 2024-03-17. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+<p><small>Last Update: 2024-11-27. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>

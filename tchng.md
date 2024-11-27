@@ -7,6 +7,7 @@ I teach courses on comparative politics and (advanced) quantitative research met
 
 <h4>Winter 2024/25</h4>
 <ul>
+<li>Final Theses in the Field of Comparative Politics, Colloquium, University of Potsdam, Graduate and Undergradaute</li>
 <li>New Parties in Europe. Where Do They Come From And How Do They Change Politics?, Advanced Seminar, University of Potsdam, Undergraduate</li>
 <li>Environmental Sabotage, Right-Wing Extremism, Riots – Causes and Consequences of Political Violence in Representative Democracies, Seminar, University of Potsdam, Graduate</li>
 </ul>
