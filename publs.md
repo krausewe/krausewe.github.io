@@ -16,7 +16,7 @@ layout: default
 
 <h3 id="publs">Working Papers</h3>
 <ul>
-  <li> The Bombing of Hospitals and Local Violence Dynamics in Civil Wars: Evidence from Syria  (with Regine Schwab & Samer Massoud). <i>HiCN Working Paper Series</i>, 2023 (403), 1-55. <a href="https://hicn.org/working-paper/403/" target="_blank" rel="noopener noreferrer">[Article]</a> </li> <br> <li> Privatizations Spark Socialist Backlash: Evidence from East Germany’s Transformation  (with Anselm Hager, Moritz Hennicke & Lukas Mergele). <i>CESifo Working Papers</i>, No. 10030, 1-47. <a href="https://www.cesifo.org/node/72211" target="_blank" rel="noopener noreferrer">[Article]</a> </li> <br>
+  <li> Parties’ Path to Parliament. The Influential Role of Public Opinion Polls  (with Christina Gahn). <i>Working Paper</i>, 1-34. <a href="https://www.dropbox.com/scl/fi/0kbs6fnaukoaozi4e72m6/KrauseGahn_PartiesPathToParliament_20250204.pdf?rlkey=h4trgfgq5yetfpxqjvvh54op5&e=1&dl=0" target="_blank" rel="noopener noreferrer">[Article]</a> </li> <br> <li> The Bombing of Hospitals and Local Violence Dynamics in Civil Wars: Evidence from Syria  (with Regine Schwab & Samer Massoud). <i>HiCN Working Paper Series</i>, 2023 (403), 1-55. <a href="https://hicn.org/working-paper/403/" target="_blank" rel="noopener noreferrer">[Article]</a> </li> <br> <li> Privatizations Spark Socialist Backlash: Evidence from East Germany’s Transformation  (with Anselm Hager, Moritz Hennicke & Lukas Mergele). <i>CESifo Working Papers</i>, No. 10030, 1-47. <a href="https://www.cesifo.org/node/72211" target="_blank" rel="noopener noreferrer">[Article]</a> </li> <br>
 </ul>
 
 <h3 id="publs">Blog Posts and Commentaries</h3>
