@@ -4,7 +4,8 @@ layout: default
 
   Welcome to my webpage! <br> 
 
-  I am a political scientist at the Chair of Comparative Politics of the <a href="https://www.uni-potsdam.de/en/vergleichende-politikwissenschaft/team/dr-werner-krause" target = "_blank" rel="noopener noreferrer">University of Potsdam</a>, where I teach classes on comparative politics, political behavior, and research methods. Previously, I worked as a research fellow at the University of Vienna, the Humboldt University of Berlin and the WZB Berlin Social Science Center. I was also a visiting scholar at the University of Essex.<br>
+  I am a political scientist at the Chair of Comparative Politics of the <a href="https://www.uni-potsdam.de/en/vergleichende-politikwissenschaft/team/dr-werner-krause" target = "_blank" rel="noopener noreferrer">University of Potsdam</a>, where I teach classes on comparative politics, political behavior, and research methods. Previously, I worked as a research fellow at the University of Vienna, the Humboldt University of Berlin and the WZB Berlin Social Science Center. I was also a visiting scholar at the University of Essex and the 
+Mannheim Center for European Social Research (MZES).<br>
   
   My <b>research areas</b> include political representation, party competition, political radicalism/extremism, and quantitative methods with a focus on causal inference. In my current research projects, I study political phenomena such as democratic responsiveness, political violence, and citizens' voting behavior. 
   
@@ -115,4 +116,4 @@ My research on the rise of the far right in Europe and Germany has been awarded 
 -->
 
 <br>
-<p><small>Last Update: 2025-05-23. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+<p><small>Last Update: 2025-07-06. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
