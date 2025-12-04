@@ -5,6 +5,12 @@ layout: default
 <h2 id="publs">Courses</h2>
 I teach courses on comparative politics and (advanced) quantitative research methods at the undergraduate and the graduate level.<br>
 
+<h4>Winter 2025/26</h4>
+<ul>
+<li>Fundamentals of Comparative Politics - Democracies and Their Institutions, Advanced Seminar, University of Potsdam, Undergraduate</li>
+</ul>
+
+
 <h4>Summer 2025</h4>
 <ul>
 <li>Fundamentals of Comparative Politics and Political Behavior, Advanced Seminar, University of Potsdam, Undergraduate</li>
