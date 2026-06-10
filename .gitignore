@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+vendor/ruby/
+_site/
+.DS_Store
+*.html
+*.DS_Store
