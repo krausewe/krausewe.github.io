@@ -15,9 +15,9 @@ Mannheim Center for European Social Research (MZES).<br>
 My research on the rise of the far right in Europe and Germany has been awarded with the <a href="https://x.com/cps_journal/status/1829166854650376555">James Caporaso Award</a> for the best paper published in <i>Comparative Political Studies</i>, the <a href="https://x.com/RepJournal/status/1455559826461761543">Representation Best Paper Prize</a> (Honorable Mention), and the <a href="https://www.wzb.eu/de/news/friends-of-the-wzb-award-0"> WZB Best Paper Award</a>.
 <br>
         
-  My work and the projects I contributed to have been covered in <b>various media outlets</b>, such as <i>ARD</i>, <i>Deutschlandfunk</i>, <i>Der Spiegel</i>,  <i>Die Zeit</i> 
+  My work and the projects I contributed to have been covered in <b>various media outlets</b>, such as <i>ARD</i>, <i>Deutschlandfunk</i>, <i>Der Spiegel</i>,  <i>Die Zeit</i>, 
   <i>Der Standard</i>, <i>de Volkskrant</i>, <i>El País</i>, <i>France24</i>, <i>Haaretz</i>, <i>Rzeczpospolita</i>, 
-  <i>Süddeutsche Zeitung</i>, <i>taz. Die Tageszeitung</i>, <i>The Guardian</i>, <i>The New York Times</i>, 
+  <i>Süddeutsche Zeitung</i>, <i>SRF</i>, <i>taz. Die Tageszeitung</i>, <i>The Guardian</i>, <i>The New York Times</i>, 
   <i>The Washington Post</i>, and <i>ZDF</i>. Click <a href="./outreach.html">here</a> for an overview of my media appearances.
  <br>
 
@@ -116,4 +116,4 @@ My research on the rise of the far right in Europe and Germany has been awarded 
 -->
 
 <br>
-<p><small>Last Update: 2025-12-04. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+<p><small>Last Update: 2026-10-06. Hosted on GitHub Pages &mdash; Layout inspired by and based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
